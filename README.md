@@ -5,19 +5,19 @@
 
 - 🧑🏻‍💻 I’m currently working at [Hipla Technologies as Full Stack Developer Intern.](https://hipla.io/)
 
-- ✌🏻 Apart from Coding **I love quizzing 🏆, playing 🏓 and 🎸**
-
 - 👨🏻‍💻 I’m also a Google Summer of Code Mentor at for [Public Lab](https://publiclab.org/)
+
+<!-- - 👨‍💻 All of my projects will be available at [http://pydevsg.github.io/](http://pydevsg.github.io/) -->
 
 - 🚀 My Open Sourcey Jouney from [HacktoberFest'18 to GSoC'20](https://medium.com/@jsdevsg/my-voyage-through-open-source-222176246487)
 
-- 👨‍💻 All of my projects are available at [http://pydevsg.github.io/ (Coming Soon)](http://pydevsg.github.io/ (Coming Soon))
+- ✌🏻 Apart from Coding **I love quizzing 🏆, playing 🏓 and 🎸**
 
 - 📝 I regulary write articles on [https://medium.com/@jsdevsg/](https://medium.com/@jsdevsg/)
 
 - 💬 Ask me about **Open Source & Full Stack Development**
 
-- 📫 How to reach me **ghoshsudipto1129@gmail.com**
+<!-- - 📫 How to reach me **ghoshsudipto1129@gmail.com** -->
 
 - 🎯 Motto : **Code and contribute until the goal is reached**
 
