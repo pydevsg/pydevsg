@@ -5,11 +5,13 @@
 
 - 🧑🏻‍💻 I’m currently working at [Hipla Technologies as Full Stack Developer Intern.](https://hipla.io/)
 
-- 👨🏻‍💻 I’m also a Google Summer of Code Mentor at for [Public Lab](https://publiclab.org/)
+- 👨🏻‍💻 Google Summer of Code Mentor 2020 for [Public Lab](https://publiclab.org/)🎈 
 
 <!-- - 👨‍💻 All of my projects will be available at [http://pydevsg.github.io/](http://pydevsg.github.io/) -->
 
 - 🚀 My Open Sourcey Jouney from [HacktoberFest'18 to GSoC'20](https://medium.com/@jsdevsg/my-voyage-through-open-source-222176246487)
+
+- 🔰 Beginner's guide to Open Source Contribution - https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj 
 
 - ✌🏻 Apart from Coding **I love quizzing 🏆, playing 🏓 and 🎸**
 
@@ -29,6 +31,6 @@
 <a href="https://codepen.io/pydevsg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pydevsg" height="30" width="30" /></a>
 <a href="https://twitter.com/jsdevsg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jsdevsg" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/sudiptoghosh11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sudiptoghosh11" height="30" width="30" /></a>
-<a href="https://instagram.com/jsdevsg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jsdevsg" height="30" width="30" /></a>
+<a href="https://instagram.com/sudiptog11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jsdevsg" height="30" width="30" /></a>
 <a href="https://medium.com/@jsdevsg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jsdevsg" height="30" width="30" /></a>
 </p>
