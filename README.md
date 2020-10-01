@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pydevsg" alt="pydevsg" /> </p>
 
-- 🧑🏻‍💻 I’m currently working at [Hipla Technologies as Full Stack Developer Intern.](https://hipla.io/)
+- 🧑🏻‍💻 I’m currently looking for Software Developer Engineering roles as a Fresher. 
 
 - 👨🏻‍💻 Google Summer of Code Mentor 2020 for [Public Lab](https://publiclab.org/)🎈 
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Open Source & Full Stack Development**
 
-<!-- - 📫 How to reach me **ghoshsudipto1129@gmail.com** -->
+<!-- - 📫 Reach out to me - **ghoshsudipto1129@gmail.com** -->
 
 - 🎯 Motto : **Code and contribute until the goal is reached**
 
