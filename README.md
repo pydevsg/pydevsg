@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pydevsg" alt="pydevsg" /> </p>
 
-- 🧑🏻‍💻 I’m currently looking for Software Developer Engineering roles as a Fresher. 
+- 🧑🏻‍💻 I’m currently looking out for Software Development Engineering roles as a Fresher. 
 
 - 👨🏻‍💻 Google Summer of Code Mentor 2020 for [Public Lab](https://publiclab.org/)🎈 
 
