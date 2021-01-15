@@ -9,7 +9,7 @@
 
 <!-- - 👨‍💻 All of my projects will be available at [http://pydevsg.github.io/](http://pydevsg.github.io/) -->
 
-- 🚀 My Open Sourcey Jouney from [HacktoberFest'18 to GSoC'20](https://medium.com/@jsdevsg/my-voyage-through-open-source-222176246487)
+- 🚀 My Open Source Journey from [HacktoberFest'18 to GSoC'20](https://medium.com/@jsdevsg/my-voyage-through-open-source-222176246487)
 
 - 🔰 Beginner's guide to Open Source Contribution - https://workat.tech/general/article/open-source-contribution-guide-xmhf1k601vdj 
 
