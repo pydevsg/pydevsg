@@ -29,9 +29,8 @@
 
 <p align="center">
 <h2>Follow me on :</h2>
-<a href="https://codepen.io/pydevsg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pydevsg" height="30" width="30" /></a>
 <a href="https://twitter.com/jsdevsg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jsdevsg" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/sudiptoghosh11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sudiptoghosh11" height="30" width="30" /></a>
-<a href="https://instagram.com/sudiptog11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jsdevsg" height="30" width="30" /></a>
 <a href="https://medium.com/@jsdevsg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jsdevsg" height="30" width="30" /></a>
+<a href="https://instagram.com/sudiptog11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jsdevsg" height="30" width="30" /></a>
 </p>
