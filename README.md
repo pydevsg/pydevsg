@@ -5,7 +5,7 @@
 
 - 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2021. 
 
-- 👨🏻‍💻 Google Summer of Code 2020 & Google CodeIn 2019 Mentor for [Public Lab](https://publiclab.org/)🎈 
+- 👨🏻‍💻 Google Summer of Code 2021,2020 | Outreachy 2021 | Google CodeIn 2019 Mentor @[Public Lab](https://publiclab.org/)🎈 
 
 <!-- - 👨‍💻 All of my projects will be available at [http://pydevsg.github.io/](http://pydevsg.github.io/) -->
 
