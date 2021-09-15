@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pydevsg" alt="pydevsg" /> </p>
 
-- 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2021. 
+- 💻 Software Engineer @[JPMorgan Chase](https://www.jpmorganchase.com/),UK | Grad of 2021. 
 
 - 👨🏻‍💻 Google Summer of Code 2021,2020 | Outreachy 2021 | Google CodeIn 2019 Mentor @[Public Lab](https://publiclab.org/)🎈 
 
